@@ -1,4 +1,4 @@
-### Hi!
+##### This repo holds personal projects and work from grad school. 
 
 <!--
 **Boxylmer/Boxylmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
