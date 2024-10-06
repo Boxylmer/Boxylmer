@@ -1,4 +1,4 @@
-##### This repo holds personal projects and work from grad school. 
+I do polymer engineering and machine learning research (among other things). Reach out to me on [LinkedIn]([https://duckduckgo.com](https://www.linkedin.com/in/william-box))
 
 <!--
 **Boxylmer/Boxylmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
